@@ -6,7 +6,7 @@
 name: Justin
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Living the Dream in Small-town USA
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: lowceiling5611
   instagram:
-  linkedin: https://www.linkedin.com/in/justin-smith-a031b931
+  linkedin: justin-smith-a031b931
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: hashtag_jdawwg
