@@ -4,7 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+- Justin
+- 30 years old
+- Kansas
+- Married 8 years
+- 1 daughter, son on the way
+- Gamer
+- Weather Geek
+- Gun Enthusiast
 
 ### More Information
 
@@ -12,4 +19,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lowceilingrecording@gmail.com](mailto:lowceilingrecording@gmail.com)
